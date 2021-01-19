@@ -1,0 +1,14 @@
+$grid-breakpoints: (
+        sm: 0px,
+        md: 868px,
+        lg: 1249px
+);
+
+$primary: #bf21b9;
+$secondary: #bf3440;
+
+@import '~primereact/resources/themes/bootstrap4-light-blue/theme.css';
+@import '~primereact/resources/primereact.min.css';
+@import '~primeicons/primeicons.css';
+@import "../node_modules/bootstrap/scss/bootstrap";
+
